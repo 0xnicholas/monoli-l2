@@ -1,4 +1,4 @@
-# Monoli
+# Monoli-L2
 
 The Layer 2, build with Reth, the OP Stack and Conduit.
 
