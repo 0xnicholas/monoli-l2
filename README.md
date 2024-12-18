@@ -1,5 +1,5 @@
 # Monoli-L2
-> 暂停研究, 已转向monoli-l1
+> 暂停研究, 已转向[Monoli-L1](https://github.com/0xnicholas/monoli)
 
 The Layer 2, build with Reth, the OP Stack and Conduit.
 
